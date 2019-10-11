@@ -1,0 +1,11 @@
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\bin\Debug\1006 윈폼시험다시.exe.config
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\bin\Debug\1006 윈폼시험다시.exe
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\bin\Debug\1006 윈폼시험다시.pdb
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\1006 윈폼시험다시.csprojResolveAssemblyReference.cache
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\_1006_윈폼시험다시.Form1.resources
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\_1006_윈폼시험다시.Properties.Resources.resources
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\1006 윈폼시험다시.csproj.GenerateResource.Cache
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\1006 윈폼시험다시.exe
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\1006 윈폼시험다시.pdb
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\_1006_윈폼시험다시.Form2.resources
+C:\Users\kimheeji\Desktop\비트고급\1006 윈폼시험다시\1006 윈폼시험다시\obj\Debug\_1006_윈폼시험다시.Form3.resources
